@@ -1,5 +1,11 @@
 # Changelog
 
+## 14.12.0
+
+### Minor Changes
+
+- Added: `declaration-block-no-duplicate-properties` autofix ([#6296](https://github.com/stylelint/stylelint/pull/6296)) ([@fpetrakov](https://github.com/fpetrakov)).
+
 ## 14.11.0
 
 - Added: `ignoreAfterCombinators: []` to `selector-max-universal` ([#6275](https://github.com/stylelint/stylelint/pull/6275)).
